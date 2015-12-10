@@ -1,0 +1,102 @@
+body {
+	font-family: helvetica;
+	color: white;
+	text-align: center;
+}
+ul {
+	text-align: center;
+	padding: 20px;
+	background-color: gray;
+	opacity: 0.5;
+}
+ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+	opacity: 1.0;
+}
+h1 {
+	font-family: papyrus;
+	opacity: 0.75;
+	text-align: center;
+}
+div {
+	text-align: center;
+}
+img {
+	height: auto;
+	width: 50%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+nav a:link {text-decoration: none; color: white;}
+nav a:hover {text-decoration: none; color: white;}
+nav a:active {text-decoration: none; color: white;}
+nav a:visited {text-decoration: none; color:white;}
+
+p#first {
+	color: gray;
+	font-family: courier;
+}
+div#home {
+	background-color: black;
+	padding: 50px;
+	margin: auto;
+}
+div#about {
+	background-color: white;
+	padding: 100px;
+}
+h3.uni {
+	color: gray;
+}
+h4.uni {
+	color: gray;
+}
+div#abouttwo {
+	background-color: gray;
+	padding:100px;
+}
+div#play {
+	background-color: black;
+	padding: 100px;
+}
+div#contributors {
+	padding: 75px;
+	font-size: 25px;
+}
+div h1 {
+	padding-bottom: 20px;
+}
+div#button {
+	padding:100px;
+}
+h2 {
+	color: gray;
+}
+div#footer {
+	background-color: gray;
+	color:white;
+	padding:10px;
+	width: 100%;
+	font-size: 10px;
+}
+div img.img {
+	height: auto;
+	width: 30%;
+	vertical-align: center;
+	padding: 50px;
+	text-align: center;
+}
+p#time {
+	color: #DDDDDD;
+	font-size: 9px;
+	text-align: center;
+}
+div div#lime {
+	height: auto;
+	width:50px;
+}
+

@@ -1,0 +1,45 @@
+div.container {
+	text-align: center;
+	background-color: 
+}
+div div div {
+	text-align: center;
+}
+div div#nav {
+	color: gray;
+}
+ul {
+	list-style-type: none;
+}
+li {
+	display: inline-block;
+}
+div#title {
+	background-color: black;
+	padding-bottom: 5px;
+}
+img#logo {
+	height:auto;
+	width:50%;
+}
+div#title h1, p {
+	color: white;
+}
+a:link {text-decoration: none; color: }
+a:visited {text-decoration: none;}
+a:hover {text-decoration: none;}
+a:active {text-decoration: none;}
+
+img#friends {
+	width: 20%;
+	height:auto;
+	vertical-align: center;
+}
+img#gooz {
+	width: 10%;
+	height: auto;
+}
+div#footer {
+	padding: 10px;
+	background-color: gray;
+}
